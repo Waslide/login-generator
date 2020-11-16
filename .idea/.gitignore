@@ -6,3 +6,12 @@
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
+
+# ignorer les fichiers ayant pour extension .class
+*.class
+# ignorer le dossier target/
+/target
+#ignorer le dossier .idea/
+/.idea
+#ignorer les fichiers ayant pour extensions .iml
+*.iml
